@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/RajmaPlAyZ/RajmaPlAyZ/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/RajmaPlAyZ/RajmaPlAyZ/blob/output/dist/snake.svg" alt="Snake animation" />
 
 
 ###
