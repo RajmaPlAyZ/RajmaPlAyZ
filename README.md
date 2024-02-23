@@ -51,8 +51,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/RajmaPlAyZ/RajmaPlAyZ/blob/output/dist/snake.svg" alt="Snake animation" />
-
 <img src="https://github.com/RajmaPlAyZ/RajmaPlAyZ/blob/c7982346dd687e4cdfe01631918d0a5608920cfe/snake.svg" alt="Snake" />
 
 
