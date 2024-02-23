@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello there 👋! I'm Aryan, a passionate and driven Computer Science student with a strong foundation in both theory and practical applications. Welcome to my portfolio website, where you can explore my journey and discover the projects, skills, and experiences that define me as a budding technologist.</h2>
 
 ###
 
