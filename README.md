@@ -1,4 +1,4 @@
-<h2 align="left">Hello there 👋! I'm Aryan, a passionate and driven Computer Science student with a strong foundation in both theory and practical applications. Welcome to my portfolio website, where you can explore my journey and discover the projects, skills, and experiences that define me as a budding technologist.</h2>
+<h2 align="left">Hello there 👋! I'm Aryan, a passionate and driven Computer Science student with a strong foundation in both theory and practical applications. Welcome to my GitHub profile, where you can discover my projects, skills, and experiences that define me as a budding technologist.</h2>
 
 ###
 
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="30" alt="React/Next.js Logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
